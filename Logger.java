@@ -1,5 +1,3 @@
-package com.bansalankit.sandesh;
-
 import android.content.Context;
 import android.support.annotation.StringRes;
 import android.text.TextUtils;
